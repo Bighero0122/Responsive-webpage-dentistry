@@ -1,6 +1,7 @@
 import React from "react";
 import { LandingSection } from "./Landing";
 import { AboutSection } from "./AboutUs";
+import { ServicesSection } from "./ServicesComponent";
 import { FooterBarSection, HeaderBarSection } from "./DashboardComponents";
 
 export const DashboardComponent = () => {
@@ -9,6 +10,7 @@ export const DashboardComponent = () => {
       <HeaderBarSection />
       <LandingSection />
       <AboutSection />
+      <ServicesSection />
       <FooterBarSection />
     </div>
   );
