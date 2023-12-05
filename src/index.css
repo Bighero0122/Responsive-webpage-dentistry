@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "Arkitech Medium";
+  src: url("assets/fonts/Arkitech\ Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GT Walsheim Pro";
+  src: url("assets/fonts/GTWalsheimPro-Regular.ttf") format("truetype");
+}
+
 html,
 body {
   scroll-behavior: smooth;

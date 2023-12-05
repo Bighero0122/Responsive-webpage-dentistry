@@ -7,6 +7,11 @@ module.exports = {
       md: { min: "321px", max: "840px" },
       lg: { min: "841px", max: "1280px" },
     },
+    fontFamily: {
+      arkitech: ["Arkitech Medium"],
+      gt: ["GT Walsheim Pro"],
+      neuro: ["Neuropolitical"],
+    },
   },
   plugins: [],
 };
