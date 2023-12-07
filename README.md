@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About the Webpage
+
+This webpage fully satisfies the requirements of figma design.
+Furthermore, it includes some additional features, such as the Learn More button, Contact Us button, as well as the Modontics brand.
+The Learn More button implements the scrolling down to the About Us page, as well as the Contact Us button implements the scrolling down to the Contact Us page.
+The Modontics brand button implements the scrolling up to the top of the page.
+And language selection also has several options such as English, Mandarin and Cantonese.
+At the footer of the page, instagram and wechat icon links to instagram and wechat website.
